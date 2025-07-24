@@ -8,7 +8,7 @@ Organizations may offer assurance services, provided they do not claim official 
 
 ## How to Verify ASVS Compliance
 
-The ASVS is deliberately not prescriptive about exactly how to verify compliance at the level of a testing guide. However, it is important to highlight some key points.
+The ASVS is deliberately not prescriptive about exactㅇly how to verify compliance at the level of a testing guide. However, it is important to highlight some key points.
 
 ### Verification reporting
 
@@ -16,9 +16,7 @@ Traditional penetration testing reports issues “by exception,” only listing 
 
 ### Scope of Verification
 
-An organization developing an application will generally not implement all requirements, as some may be irrelevant or less significant based on the functionality of the application. The verifier should make the scope of the verification clear including which Level the organization is attempting to achieve and which requirements were included. This should be from the perspective of what was included rather than what was not included. They should also provide an opinion on the rationale of excluding the requirements which haven't been implemented.
-
-This should allow the consumer of a verification report to understand the context of the verification and make an informed decision about the level of trust they can place in the application.
+An organization developing an application will generally not implement all requirements, as some may be irrelevant or less significant based on the functionality of the application. The verifier should make ㅇ
 
 Certifying organizations can choose their testing methods but should disclose them in the report and this should ideally be repeatable. Different methods, like manual penetration tests or source code analysis, may be used to verify aspects such as input validation, depending on the application and requirements.
 
